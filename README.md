@@ -35,7 +35,7 @@ This Quick Start Guide is designed to guide you through the installation of the 
 
 </details>
 
-## <mark style="color:blue;">Package Contents</mark>
+## <mark style="color:blue;">Package Contents Terrel</mark>
 
 <figure><img src=".gitbook/assets/工作區域 1 複本 8.png" alt=""><figcaption></figcaption></figure>
 
