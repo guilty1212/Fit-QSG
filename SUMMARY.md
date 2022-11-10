@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fit6 2x2 APs](README.md)
+* [Fit6 2x2 AP](README.md)
 * [Hardware Mounting](hardware-mounting.md)
 * [Powering EnGenius Fit AP](powering-engenius-fit-ap.md)
 * [Management Plane](management-plane.md)
